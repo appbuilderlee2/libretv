@@ -1,0 +1,105 @@
+{
+  "name": "LibreTV 合併來源清單（14 個點播 API）",
+  "version": 2,
+  "sources": [
+    {
+      "name": "飯糰影視",
+      "url": "https://www.fantuan.tv/api.php/provide/vod/"
+    },
+    {
+      "name": "影視工廠",
+      "url": "https://cj.lziapi.com/api.php/provide/vod/"
+    },
+    {
+      "name": "七七資源",
+      "url": "https://www.qiqidys.com/api.php/provide/vod/"
+    },
+    {
+      "name": "黑木耳",
+      "url": "https://json.heimuer.xyz/api.php/provide/vod"
+    },
+    {
+      "name": "無盡資源",
+      "url": "https://api.wujinapi.me/api.php/provide/vod/"
+    },
+    {
+      "name": "臥龍資源",
+      "url": "https://collect.wolongzyw.com/api.php/provide/vod/"
+    },
+    {
+      "name": "哇可可影視",
+      "url": "https://www.zwcoco.com/api.php/provide/vod"
+    },
+    {
+      "name": "魚樂資源",
+      "url": "https://api.ylzy1.com/api.php/provide/vod"
+    },
+    {
+      "name": "酷點資源",
+      "url": "https://api.kuapi.cc/api.php/provide/vod"
+    },
+    {
+      "name": "U酷資源",
+      "url": "https://api.ukuapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "兔子窩",
+      "url": "http://cj.huimaojia.com:12345/api.php/provide/vod"
+    },
+    {
+      "name": "飄花電影",
+      "url": "https://www.zzrhgg.com/api.php/provide/vod"
+    },
+    {
+      "name": "閃電資源",
+      "url": "http://sdzyapi.com/api.php/provide/vod"
+    },
+    {
+      "name": "巨量資源",
+      "url": "https://api.juliang.live/api/provide/vod/"
+    }
+  ],
+  "tvboxConfigurations": [
+    {
+      "name": "飯太硬",
+      "url": "http://www.饭太硬.cc/tv"
+    },
+    {
+      "name": "肥貓",
+      "url": "http://肥猫.net/tv"
+    },
+    {
+      "name": "摸魚兒",
+      "url": "https://6800.kstore.vip/fish.json"
+    },
+    {
+      "name": "謳歌",
+      "url": "https://欧歌.v.nxog.top/m"
+    },
+    {
+      "name": "多多",
+      "url": "https://yydsys.top/duo"
+    },
+    {
+      "name": "南風",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json"
+    },
+    {
+      "name": "王二小",
+      "url": "https://9280.kstore.vip/newwex.json"
+    },
+    {
+      "name": "瀟灑",
+      "url": "https://9877.kstore.space/one.json"
+    },
+    {
+      "name": "真心",
+      "url": "https://tvbox.catvod.com/FongMi.json"
+    },
+    {
+      "name": "影視倉多倉",
+      "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"
+    }
+  ],
+  "note": "tvboxConfigurations is reference-only metadata. LibreTV imports only sources/liveSources from this document. Unverified TVBOX configurations have NOT been extracted into sources."
+}
